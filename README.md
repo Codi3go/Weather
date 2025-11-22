@@ -59,10 +59,8 @@ animate.css
 
 OpenWeatherMap API
 
-🖼️ Vista previa (opcional)
+🖼️ Vista previa
 
-Si lo subes a GitHub Pages puedes agregar aquí el link:
-
-[Demo en línea]<https://codi3go.github.io/Wather/>
+<https://codi3go.github.io/Weather/>
 
 
